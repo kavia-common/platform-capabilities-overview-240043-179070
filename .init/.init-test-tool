@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/platform-capabilities-overview-240043-179070/main_frontend"
+}
